@@ -1,4 +1,4 @@
-# FoodiEats - Enterprise Standard Online Food Delivery System
+# Foodie - Enterprise Standard Online Food Delivery System
 
 FoodiEats is a highly scalable, real-world standard Online Food Delivery platform (similar to Zomato or Swiggy) built using **Laravel**. The architecture follows industry-best practices, decoupling heavy operations into background queues, enforcing data integrity via transactional safety layers, and isolating security parameters using enterprise-level Role-Based Access Control (RBAC).
 
