@@ -44,4 +44,4 @@ To guarantee top performance, heavy system operations are completely decoupled f
 
 The architecture relies on high-integrity data mappings:
 - **Core Entities:** `User`, `Category`, `Hotel`, `Product` (with image storage paths), `Cart`, `CartItem`, `Order`, `OrderItem`, `Payment` (supporting COD vs Online state tracking), and `Query`.
-- **Relational Integrity:** Fully defined Eloquent relationships (`belongsTo`, `hasMany`, and polymorphic pivot linkages for dynamic food mapping).
+- **Relational Integrity:** Fully defined Eloquent relationships (`belongsTo`, `hasMany`, and polymorphic pivot linkages for dynamic food mapping)
